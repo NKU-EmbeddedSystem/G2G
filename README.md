@@ -1,7 +1,7 @@
 # G2G
 This is the Official PyTorch implemention of our ICASSP2024 paper "G2G: Generalized Learning by Cross-Domain Knowledge Transfer for Federated Domain Generalization".
 
-# Fedrated Domain Generalization
+# G2G:Generalized Learning by Cross-Domain Knowledge Transfer for Federated Domain Generalization
 Code to reproduce the experiments of **G2G:Generalized Learning by Cross-Domain Knowledge Transfer for Federated Domain Generalization**.
 ## How to use it
 * Clone or download the repository
